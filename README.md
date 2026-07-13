@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
