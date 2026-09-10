@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0202-happy-number) |
 | [2413-smallest-even-multiple](https://github.com/tejaswiniyellanki/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tejaswiniyellanki/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -28,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/tejaswiniyellanki/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tejaswiniyellanki/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
