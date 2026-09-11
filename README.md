@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -13,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
