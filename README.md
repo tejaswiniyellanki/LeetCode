@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tejaswiniyellanki/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/tejaswiniyellanki/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/tejaswiniyellanki/LeetCode/tree/master/0202-happy-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/tejaswiniyellanki/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
